@@ -1,1 +1,3 @@
-# GitHarjoitus2
+# GitHarjoitus
+
+init, add, commit, push, pull, merge, fetch etc
