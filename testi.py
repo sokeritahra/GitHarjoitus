@@ -1,1 +1,2 @@
 # moi
+print("Hello Master!")
